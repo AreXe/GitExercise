@@ -1,3 +1,5 @@
 # Copyright by areXe
 # Hello world script
-echo "Hello guys"
+echo "Hello" $USER
+ls -lah ~ > lista_plikow.txt
+echo "File list created"
